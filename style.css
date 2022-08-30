@@ -1,0 +1,16 @@
+.body_backgorund 
+{
+    background-image:url(Collage\ father.jpeg);
+    background-position:center;
+    background-size:contain;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: darkviolet;
+   background-image:url(Father.jpeg);
+   background-position: center;
+   background-size: contain;
+}
